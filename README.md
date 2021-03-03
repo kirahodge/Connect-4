@@ -1,3 +1,3 @@
 # Connect-4
 
-Connect-4 AI to play against user
+Connect-4 AI written in Java using the minimax algorithm and alpha-beta pruning.
